@@ -6,6 +6,4 @@ My name is Claudio Hirakawa, I am software engineer from São Paulo, Brazil and 
  [![Instagram Badge](https://img.shields.io/badge/-@hira.clau-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://instagram.com/hira.clau)
 
 
-[![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiokazuo&show_icons=true&theme=buefy)](https://github.com/claudiokazuo/github-readme-stats)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiokazuo&theme=buefy)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiokazuo&theme=buefy) [![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiokazuo&show_icons=true&theme=buefy)](https://github.com/claudiokazuo)
